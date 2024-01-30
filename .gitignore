@@ -19,3 +19,14 @@
 
 # Go workspace file
 go.work
+<<<<<<< HEAD
+=======
+go.work.sum
+
+# ignore env vars
+*.env
+
+# ides
+.idea
+.vscode
+>>>>>>> 52f9407 (Initial commit)
