@@ -22,7 +22,7 @@ the password is used to call the endpoint `/metrics` of the prometheus server.
 ## Login
 Go to the url `https://localhost:9090` and you will see a page like this:
 
-![login_page](assets/login.svg)
+![login_page](assets/login.png)
 
 Use this credentials to access:
 * **username:** `john`
@@ -39,14 +39,14 @@ By default, this project configures two alerts and one rule.
 
 To see the alerts, go to this [link](https://localhost:9090/alerts?search=), and you'll show this page:
 
-![alerts_page](assets/alerts.svg)
+![alerts_page](assets/alerts.png)
 
 The alerts configured monitoring when an instance has been down by more than 5 minutes, and when a http service has a high latency.
 
 
 To see the rules, go to this [link](https://localhost:9090/rules).
 
-![rules_page](assets/rules.svg)
+![rules_page](assets/rules.png)
 
 The rules configured will be described here.
 
