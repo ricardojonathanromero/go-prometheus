@@ -51,5 +51,9 @@ To see the rules, go to this [link](https://localhost:9090/rules).
 The rules configured will be described here.
 
 
+## Contact
+ricardo.jonathan.romero@gmail.com
+
+
 [golang-version]: .goversion
 [prometheus-version]: .prometheusversion
